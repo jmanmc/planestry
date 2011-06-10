@@ -1,0 +1,17 @@
+{	
+	"graphics": {
+		"window": { "width": 800, "height": 600, "title": "demo" },
+		
+		"texture quality": "high"
+		
+	},
+	
+	"web app": {
+		"address": "http://localhost:4567/",
+		
+		"creds": {
+			"user name": "jmanmc",
+			"password": "mcallister"
+		}
+	}
+}
