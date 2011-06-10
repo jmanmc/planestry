@@ -1,0 +1,1 @@
+To build the engine, navigate to the 'build' directory, and run the vs2008 batch file. Requires premake4 to be installed.
